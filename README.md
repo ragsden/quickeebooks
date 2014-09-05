@@ -1,7 +1,7 @@
 # NOTE
 This library only supports Intuit API V2 - If you're looking for Intuit V3 support then you need to use
 my other library: [quickbooks-ruby](https://github.com/ruckus/quickbooks-ruby)
-
+[![Build Status](https://apibeta.shippable.com/projects/540997ff8e212f1500c77bac/badge?branchName=master)](https://beta.shippable.com/projects/540997ff8e212f1500c77bac/builds/latest)
 
 # Quickeebooks
 
