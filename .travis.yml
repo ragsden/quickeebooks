@@ -18,4 +18,5 @@ matrix:
 
 
 notifications:
-  email: vidya@shippable.com
+  email: 
+    - vidya@shippable.com
